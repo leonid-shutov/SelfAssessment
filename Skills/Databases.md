@@ -1,94 +1,94 @@
 ## Databases
 
 - Theory and concepts
-  - Data types u
-  - Performance tuning u
-  - Migrations u
-  - Schema versioning u
-  - Backup and recovery u
-  - Database scalability u
-  - Relational databases u
-  - Key-value store u
-  - Tuple store u
-  - Graph databases k
-  - Object databases u
-  - Column databases k
-  - Navigational databases k
-  - Hierarchical databases k
-  - In-memory databases u
-  - Inverted index k
-  - Data control language (DCL) u
-  - Data definition language (DDL) u
-  - Data manipulation language (DML) u
-  - Data query language (DQL) u
+  - Data types: 🖐️ used
+  - Performance tuning: 🖐️ used
+  - Migrations: 🖐️ used
+  - Schema versioning: 🖐️ used
+  - Backup and recovery: 🖐️ used
+  - Database scalability: 🖐️ used
+  - Relational databases: 🖐️ used
+  - Key-value store: 🖐️ used
+  - Tuple store: 🖐️ used
+  - Graph databases: 🎓 known
+  - Object databases: 🖐️ used
+  - Column databases: 🎓 known
+  - Navigational databases: 🎓 known
+  - Hierarchical databases: 🎓 known
+  - In-memory databases: 🖐️ used
+  - Inverted index: 🎓 known
+  - Data control language (DCL): 🖐️ used
+  - Data definition language (DDL): 🖐️ used
+  - Data manipulation language (DML): 🖐️ used
+  - Data query language (DQL): 🖐️ used
 - Relational
-  - Entity-Relationship Diagram k
-  - Normal forms u
-  - Indexing u
-  - Primary keys u
-  - Foreign keys u
-  - Transactions u
-  - Views u
-  - Subqueries u
-  - Stored procedures u
-  - SQL functions u
-  - Materialized views k
-  - Replications k
-  - Virtualization h
+  - Entity-Relationship Diagram: 🎓 known
+  - Normal forms: 🖐️ used
+  - Indexing: 🖐️ used
+  - Primary keys: 🖐️ used
+  - Foreign keys: 🖐️ used
+  - Transactions: 🖐️ used
+  - Views: 🖐️ used
+  - Subqueries: 🖐️ used
+  - Stored procedures: 🖐️ used
+  - SQL functions: 🖐️ used
+  - Materialized views: 🎓 known
+  - Replications: 🎓 known
+  - Virtualization: 👂 heard
 - SQL
-  - `SELECT` u
-  - `INSERT` u
-  - `UPDATE` u
-  - `DELETE` u
-  - `LIMIT` u
-  - `OFFSET` u
-  - `ORDER BY` u
-  - `GROUP BY` u
-  - `HAVING` u
-  - `EXISTS` u
-  - `JOIN` u
-  - `INNER JOIN` u
-  - `LEFT JOIN` u
-  - `RIGHT JOIN` u
-  - `UNION` u
-  - `DISTINCT` u
-  - `WHERE` u
-  - `LIKE` u
-  - `IN` u
-  - `BETWEEN` u
-  - `CREATE TABLE` u
-  - `ALTER TABLE` u
-  - `DROP TABLE` u
-  - `PRIMARY KEY` u
-  - `FOREIGN KEY` u
-  - `CHECK` u
-  - `DEFAULT` u
-  - `INDEX` u
-  - `UNIQUE` u
-  - `GRANT` u
-  - `REVOKE` u
-  - `DENY` u
-  - `EXPLAIN` u
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
+  - `LIMIT`: 🖐️ used
+  - `OFFSET`: 🖐️ used
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 🖐️ used
+  - `HAVING`: 🖐️ used
+  - `EXISTS`: 🖐️ used
+  - `JOIN`: 🖐️ used
+  - `INNER JOIN`: 🖐️ used
+  - `LEFT JOIN`: 🖐️ used
+  - `RIGHT JOIN`: 🖐️ used
+  - `UNION`: 🖐️ used
+  - `DISTINCT`: 🖐️ used
+  - `WHERE`: 🖐️ used
+  - `LIKE`: 🖐️ used
+  - `IN`: 🖐️ used
+  - `BETWEEN`: 🖐️ used
+  - `CREATE TABLE`: 🖐️ used
+  - `ALTER TABLE`: 🖐️ used
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
+  - `CHECK`: 🖐️ used
+  - `DEFAULT`: 🖐️ used
+  - `INDEX`: 🖐️ used
+  - `UNIQUE`: 🖐️ used
+  - `GRANT`: 🖐️ used
+  - `REVOKE`: 🖐️ used
+  - `DENY`: 🖐️ used
+  - `EXPLAIN`: 🖐️ used
 - Engines
-  - PostgreSQL u
-  - Oracle k
-  - MySQL k
-  - MariaDB k
-  - MS SQL Server k
-  - Redis u
-  - Rabbit k
-  - MongoDB u
-  - Memcached u
-  - Riak h
-  - DB2 h
-  - SQLite k
-  - DynamoDB u
-  - Firebase u
+  - PostgreSQL: 🖐️ used
+  - Oracle: 🎓 known
+  - MySQL: 🎓 known
+  - MariaDB: 🎓 known
+  - MS SQL Server: 🎓 known
+  - Redis: 🖐️ used
+  - Rabbit: 🎓 known
+  - MongoDB: 🖐️ used
+  - Memcached: 🖐️ used
+  - Riak: 👂 heard
+  - DB2: 👂 heard
+  - SQLite: 🎓 known
+  - DynamoDB: 🖐️ used
+  - Firebase: 🖐️ used
 - Data engineering
-  - Data warehousing k
-  - Business intelligence h
-  - Big data k
-  - Data analysis k
-  - AI tools u
-  - Cloud databases u
-  - Data Visualization u
+  - Data warehousing: 🎓 known
+  - Business intelligence: 👂 heard
+  - Big data: 🎓 known
+  - Data analysis: 🎓 known
+  - AI tools: 🖐️ used
+  - Cloud databases: 🖐️ used
+  - Data Visualization: 🖐️ used
